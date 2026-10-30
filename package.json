@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^13.0.3",
+    "sql.js": "^1.13.0",
     "express": "^5.3.0"
   }
 }
